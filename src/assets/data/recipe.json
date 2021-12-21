@@ -1,20 +1,22 @@
 {
-  "tags": ["ribs", "dinner", "food"],
+  "tags": ["beef", "lunch", "food"],
   "tools": [
-    "hand blender",
-    "large heavy pot with lid",
+    "skillet",
+    "fork",
     "measuring spoons",
-    "measuring cups"
+    "measuring cups",
+    "strainer"
   ],
   "ingredients": [
-    "1  1/2 cups dry pancake mix",
-    "1/2 cup flax seed meal",
+    "1 lb. ground beef",
+    "1 1/2 tablespoon taco spice",
     "1 cup skim milk"
   ],
   "instructions": [
-    "I'm baby mustache man braid fingerstache small batch venmo succulents shoreditch.",
-    "Pabst pitchfork you probably haven't heard of them, asymmetrical seitan tousled succulents wolf banh mi man bun bespoke selfies freegan ethical hexagon.",
-    "Polaroid iPhone bitters chambray. Cornhole swag kombucha live-edge.",
-    "Unicorn meditation affogato venmo, vexillologist DIY godard iPhone. Whatever chambray paleo, meh try-hard hashtag meggings wayfarers hella flannel ugh asymmetrical succulents."
+    "Brown beef in skillet over medium high heat.",
+    "Drain beef and return to skillet.",
+    "Add taco spice and milk.",
+    "Bring to a boil",
+    "Allow to simmer for 10 minutes."
   ]
 }
