@@ -7,7 +7,7 @@ import SEO from "../components/SEO"
 const Home = () => {
   return (
     <Layout>
-      <SEO />
+      <SEO title="Home" />
       <main className="page">
         <header className="hero">
           <StaticImage
